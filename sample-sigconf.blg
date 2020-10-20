@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: sample-sigconf.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: acmart.bib
+Warning--I didn't find a database entry for "prePLA"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in angelopoulos2016model
+Warning--empty address in angelopoulos2016model
+Warning--no number and no volume in ow22013rubis
+Warning--page numbers missing in both pages and numpages fields in ow22013rubis
+Warning--empty publisher in filieri2015software
+Warning--empty address in filieri2015software
+Warning--unusual to have number, but no volume, for kephart2003vision
+Warning--empty publisher in klein2014brownout
+Warning--empty address in klein2014brownout
+Warning--empty publisher in kwiatkowska2011prism
+Warning--empty address in kwiatkowska2011prism
+Warning--empty publisher in maggio2017automated
+Warning--empty address in maggio2017automated
+Warning--empty booktitle in Moreno2017AdaptationTI
+Warning--empty publisher in Moreno2017AdaptationTI
+Warning--empty address in Moreno2017AdaptationTI
+Warning--page numbers missing in both pages and numpages fields in Moreno2017AdaptationTI
+Warning--empty publisher in moreno2015proactive
+Warning--empty address in moreno2015proactive
+Warning--empty publisher in moreno2017comparing
+Warning--empty address in moreno2017comparing
+Warning--empty address in puterman2014markov
+Warning--empty address in Sontag2013
+You've used 18 entries,
+            5719 wiz_defined-function locations,
+            1400 strings with 18230 characters,
+and the built_in function-call counts, 22173 in all, are:
+= -- 2805
+> -- 819
+< -- 0
++ -- 270
+- -- 284
+* -- 1545
+:= -- 2257
+add.period$ -- 92
+call.type$ -- 18
+change.case$ -- 128
+chr.to.int$ -- 18
+cite$ -- 41
+duplicate$ -- 1946
+empty$ -- 1359
+format.name$ -- 332
+if$ -- 5381
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 76
+newline$ -- 176
+num.names$ -- 144
+pop$ -- 748
+preamble$ -- 1
+purify$ -- 290
+quote$ -- 0
+skip$ -- 683
+stack$ -- 0
+substring$ -- 1642
+swap$ -- 202
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 398
+warning$ -- 23
+while$ -- 150
+width$ -- 0
+write$ -- 342
+(There were 24 warnings)

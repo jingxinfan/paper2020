@@ -1,0 +1,263 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{18}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Angelopoulos, Papadopoulos, Silva~Souza, and
+  Mylopoulos}{Angelopoulos et~al\mbox{.}}{2016}]%
+        {angelopoulos2016model}
+\bibfield{author}{\bibinfo{person}{Konstantinos Angelopoulos},
+  \bibinfo{person}{Alessandro~V Papadopoulos}, \bibinfo{person}{V{\'\i}tor~E
+  Silva~Souza}, {and} \bibinfo{person}{John Mylopoulos}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Model predictive control for software systems with
+  CobRA}. In \bibinfo{booktitle}{\emph{Proceedings of the 11th international
+  symposium on software engineering for adaptive and self-managing systems}}.
+  ACM, \bibinfo{pages}{35--46}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Calinescu, Weyns, Gerasimou, Iftikhar, Habli,
+  and Kelly}{Calinescu et~al\mbox{.}}{2017}]%
+        {calinescu2017engineering}
+\bibfield{author}{\bibinfo{person}{Radu Calinescu}, \bibinfo{person}{Danny
+  Weyns}, \bibinfo{person}{Simos Gerasimou}, \bibinfo{person}{Muhammad~Usman
+  Iftikhar}, \bibinfo{person}{Ibrahim Habli}, {and} \bibinfo{person}{Tim
+  Kelly}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Engineering trustworthy self-adaptive software with
+  dynamic assurance cases}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Software Engineering}}
+  \bibinfo{volume}{44}, \bibinfo{number}{11} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{1039--1069}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Consortium et~al\mbox{.}}{Consortium
+  et~al\mbox{.}}{2013}]%
+        {ow22013rubis}
+\bibfield{author}{\bibinfo{person}{OW2 Consortium} {et~al\mbox{.}}}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Rubis: Rice university bidding system}.
+\newblock \bibinfo{journal}{\emph{URL http://rubis. ow2. org}}
+  (\bibinfo{year}{2013}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dinda}{Dinda}{2006}]%
+        {dinda2006design}
+\bibfield{author}{\bibinfo{person}{Peter~A Dinda}.}
+  \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Design, implementation, and performance of an
+  extensible toolkit for resource prediction in distributed systems}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Parallel and Distributed
+  Systems}} \bibinfo{volume}{17}, \bibinfo{number}{2} (\bibinfo{year}{2006}),
+  \bibinfo{pages}{160--173}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Filieri, Maggio, Angelopoulos, d'Ippolito,
+  Gerostathopoulos, Hempel, Hoffmann, Jamshidi, Kalyvianaki, Klein,
+  et~al\mbox{.}}{Filieri et~al\mbox{.}}{2015}]%
+        {filieri2015software}
+\bibfield{author}{\bibinfo{person}{Antonio Filieri}, \bibinfo{person}{Martina
+  Maggio}, \bibinfo{person}{Konstantinos Angelopoulos},
+  \bibinfo{person}{Nicolas d'Ippolito}, \bibinfo{person}{Ilias
+  Gerostathopoulos}, \bibinfo{person}{Andreas~Berndt Hempel},
+  \bibinfo{person}{Henry Hoffmann}, \bibinfo{person}{Pooyan Jamshidi},
+  \bibinfo{person}{Evangelia Kalyvianaki}, \bibinfo{person}{Cristian Klein},
+  {et~al\mbox{.}}} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Software engineering meets control theory}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 10th International Symposium on
+  Software Engineering for Adaptive and Self-Managing Systems}}. IEEE Press,
+  \bibinfo{pages}{71--82}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Islam, Ren, Mahmud, and Quan}{Islam
+  et~al\mbox{.}}{2015}]%
+        {islam2015online}
+\bibfield{author}{\bibinfo{person}{Mohammad~A Islam}, \bibinfo{person}{Shaolei
+  Ren}, \bibinfo{person}{A~Hasan Mahmud}, {and} \bibinfo{person}{Gang Quan}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Online energy budgeting for cost minimization in
+  virtualized data center}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Services Computing}}
+  \bibinfo{volume}{9}, \bibinfo{number}{3} (\bibinfo{year}{2015}),
+  \bibinfo{pages}{421--432}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Keefer}{Keefer}{1994}]%
+        {keefer1994certainty}
+\bibfield{author}{\bibinfo{person}{Donald~L Keefer}.}
+  \bibinfo{year}{1994}\natexlab{}.
+\newblock \showarticletitle{Certainty equivalents for three-point
+  discrete-distribution approximations}.
+\newblock \bibinfo{journal}{\emph{Management science}} \bibinfo{volume}{40},
+  \bibinfo{number}{6} (\bibinfo{year}{1994}), \bibinfo{pages}{760--773}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kephart and Chess}{Kephart and Chess}{2003}]%
+        {kephart2003vision}
+\bibfield{author}{\bibinfo{person}{Jeffrey~O Kephart} {and}
+  \bibinfo{person}{David~M Chess}.} \bibinfo{year}{2003}\natexlab{}.
+\newblock \showarticletitle{The vision of autonomic computing}.
+\newblock \bibinfo{journal}{\emph{Computer}} \bibinfo{number}{1}
+  (\bibinfo{year}{2003}), \bibinfo{pages}{41--50}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Klein, Maggio, {\AA}rz{\'e}n, and
+  Hern{\'a}ndez-Rodriguez}{Klein et~al\mbox{.}}{2014}]%
+        {klein2014brownout}
+\bibfield{author}{\bibinfo{person}{Cristian Klein}, \bibinfo{person}{Martina
+  Maggio}, \bibinfo{person}{Karl-Erik {\AA}rz{\'e}n}, {and}
+  \bibinfo{person}{Francisco Hern{\'a}ndez-Rodriguez}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Brownout: Building more robust cloud applications}.
+  In \bibinfo{booktitle}{\emph{Proceedings of the 36th International Conference
+  on Software Engineering}}. ACM, \bibinfo{pages}{700--711}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kwiatkowska, Norman, and Parker}{Kwiatkowska
+  et~al\mbox{.}}{2011}]%
+        {kwiatkowska2011prism}
+\bibfield{author}{\bibinfo{person}{Marta Kwiatkowska}, \bibinfo{person}{Gethin
+  Norman}, {and} \bibinfo{person}{David Parker}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{PRISM 4.0: Verification of probabilistic real-time
+  systems}. In \bibinfo{booktitle}{\emph{International conference on computer
+  aided verification}}. Springer, \bibinfo{pages}{585--591}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Maggio, Papadopoulos, Filieri, and
+  Hoffmann}{Maggio et~al\mbox{.}}{2017}]%
+        {maggio2017automated}
+\bibfield{author}{\bibinfo{person}{Martina Maggio},
+  \bibinfo{person}{Alessandro~Vittorio Papadopoulos}, \bibinfo{person}{Antonio
+  Filieri}, {and} \bibinfo{person}{Henry Hoffmann}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Automated control of multiple software goals using
+  multiple actuators}. In \bibinfo{booktitle}{\emph{Proceedings of the 2017
+  11th joint meeting on foundations of software engineering}}. ACM,
+  \bibinfo{pages}{373--384}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Moreno}{Moreno}{2017}]%
+        {Moreno2017AdaptationTI}
+\bibfield{author}{\bibinfo{person}{Gabriel~A. Moreno}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Adaptation Timing in Self-Adaptive Systems}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Moreno, C{\'a}mara, Garlan, and
+  Schmerl}{Moreno et~al\mbox{.}}{2015}]%
+        {moreno2015proactive}
+\bibfield{author}{\bibinfo{person}{Gabriel~A Moreno}, \bibinfo{person}{Javier
+  C{\'a}mara}, \bibinfo{person}{David Garlan}, {and} \bibinfo{person}{Bradley
+  Schmerl}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Proactive self-adaptation under uncertainty: a
+  probabilistic model checking approach}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 2015 10th Joint Meeting on
+  Foundations of Software Engineering}}. ACM, \bibinfo{pages}{1--12}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Moreno, Papadopoulos, Angelopoulos,
+  C{\'a}mara, and Schmerl}{Moreno et~al\mbox{.}}{2017}]%
+        {moreno2017comparing}
+\bibfield{author}{\bibinfo{person}{Gabriel~A Moreno},
+  \bibinfo{person}{Alessandro~Vittorio Papadopoulos},
+  \bibinfo{person}{Konstantinos Angelopoulos}, \bibinfo{person}{Javier
+  C{\'a}mara}, {and} \bibinfo{person}{Bradley Schmerl}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Comparing model-based predictive approaches to
+  self-adaptation: CobRA and PLA}. In \bibinfo{booktitle}{\emph{2017 IEEE/ACM
+  12th International Symposium on Software Engineering for Adaptive and
+  Self-Managing Systems (SEAMS)}}. IEEE, \bibinfo{pages}{42--53}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Puterman}{Puterman}{2014}]%
+        {puterman2014markov}
+\bibfield{author}{\bibinfo{person}{Martin~L Puterman}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Markov Decision Processes.: Discrete
+  Stochastic Dynamic Programming}}.
+\newblock \bibinfo{publisher}{John Wiley \& Sons}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Qin and Badgwell}{Qin and Badgwell}{2003}]%
+        {qin2003survey}
+\bibfield{author}{\bibinfo{person}{S~Joe Qin} {and} \bibinfo{person}{Thomas~A
+  Badgwell}.} \bibinfo{year}{2003}\natexlab{}.
+\newblock \showarticletitle{A survey of industrial model predictive control
+  technology}.
+\newblock \bibinfo{journal}{\emph{Control engineering practice}}
+  \bibinfo{volume}{11}, \bibinfo{number}{7} (\bibinfo{year}{2003}),
+  \bibinfo{pages}{733--764}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sontag}{Sontag}{2013}]%
+        {Sontag2013}
+\bibfield{author}{\bibinfo{person}{E.~D. Sontag}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Mathematical control theory: deterministic
+  finite dimensional systems}}. Vol.~\bibinfo{volume}{6}.
+\newblock \bibinfo{publisher}{Springer Science \& Business Media}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhang and Zwart}{Zhang and Zwart}{2008}]%
+        {zhang2008steady}
+\bibfield{author}{\bibinfo{person}{Jiheng Zhang} {and} \bibinfo{person}{Bert
+  Zwart}.} \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{Steady state approximations of limited processor
+  sharing queues in heavy traffic}.
+\newblock \bibinfo{journal}{\emph{Queueing Systems}} \bibinfo{volume}{60},
+  \bibinfo{number}{3-4} (\bibinfo{year}{2008}), \bibinfo{pages}{227--246}.
+\newblock
+
+
+\end{thebibliography}
